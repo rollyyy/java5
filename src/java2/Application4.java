@@ -20,7 +20,7 @@ public class Application4 {
 		int avg = sum / 3;
 		
 		System.out.println("총점 : " + sum);
-		System.out.println("평균 : " + avg);
+		System.out.println("평균 : " + avg);   
 
 	}
 }
